@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="let_s_play">Let\'s play!</string>
+    <string name="enter_an_integer_value_inj_1_20">Enter an integer value inj 1-20:</string>
+    <string name="enter_a_value">Enter a value</string>
+    <string name="guess">Guess</string>
+</resources>
